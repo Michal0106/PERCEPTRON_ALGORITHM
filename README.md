@@ -1,1 +1,1 @@
-# PERCEPTRON_ALGORITHM
+This Python script implements a perceptron classifier to classify Iris flowers into the "Iris-setosa" class or the "Not Iris-setosa" class based on their attributes. It uses the Iris dataset for training and testing.
